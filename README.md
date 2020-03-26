@@ -6,7 +6,7 @@ Such simulational tools are used widely in the field of approximate computing to
 You would need Python 3 compiler to execute the codes, however to change the adder truth tables any text editor can be used. The input files are given in the text format as specified in the code. The input/output files given in the data folder may prove helpful in case of any confusion regarding the data format in the files. 
 #Output: 
 For easy comprehension of the users, the inputs and outputs are generated in the decimal format, while the whole processing is performed at the bit level. The program itself manages the intermediate steps. 
-#Goals:
+# Goals:
 - [x] Modeling approximate adders and multipliers for integers 
 - [x] Modeling approximate adders and multipliers for floating point numbers using the IEEE 754 notation
 - [ ] Generating a Verilog model of the adder and multiplier blocks with direct substitutional units for approximate designs
